@@ -59,7 +59,7 @@ The goal is to see if the new design leads to a better user experience and highe
 
 ## 🗂️ Repository Structure
 ```
-wine dataset/
+vanguard-cx/
 ├─ SQL queries compillation/
 │
 ├─ canva slides/
