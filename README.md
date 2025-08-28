@@ -48,6 +48,7 @@ The goal is to see if the new design leads to a better user experience and highe
 - **Completion Rate:** Test group performed better and results are statistically significant.  
 - **Time Spent per Step:** Test group performed better and results are statistically significant. 
 - **Error Rate:** Test group performed better and results are statistically significant.
+- **Tableau Dashboard:** https://public.tableau.com/views/vanguard_cx_dashboard/client_dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
